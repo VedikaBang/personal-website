@@ -1,0 +1,4 @@
+baseURL = "https://vedikabang.com/"
+languageCode = "en-us"
+title = "Vedika's Site"
+theme = "archie"
